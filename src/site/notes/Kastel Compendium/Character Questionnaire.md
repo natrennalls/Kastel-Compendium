@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/kastel-compendium/character-questionnaire/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/kastel-compendium/character-questionnaire/"}
 ---
 
 
 # Character Questionnaire
 #dnd #charactergeneration #pc
 
-
+[[Campaigns/A New Age/PCs/Anralla Ollanrinnamu\|Anralla Ollanrinnamu]]
+[[Campaigns/A New Age/PCs/Buzz\|Buzz]] 
+[[Campaigns/A New Age/PCs/Alderic Toussaint\|Alderic Toussaint]]
 > [!NOTE] INTRO
 > - [ ] Two or three word description of your character 
 > - [ ] Do you have any nicknames, street names, titles, etc.? Where do they come from?
@@ -95,34 +97,16 @@
 >  - [ ] How might these enemies seek to discomfit you in the future?
 >  - [ ] What valuable or important contacts do you have?
 >  - [ ] How did you come to know them?
->  - [ ] Which person(s) or group(s) are you most loyal to?
 >  - [ ] List any past serious relationships that you have had, and give a brief overview of the relationship(s).
->  - [ ] How do you think others generally perceive you?
->  - [ ] If someone crossed your path, what would you do?
 >  - [ ] Who is your most trusted ally?
->  - [ ] Who do you trust, in general?
 >  - [ ] Who do you despise and why?
->  - [ ] Name seven things you hate in others.
->  - [ ] Is your image consistent?
->  - [ ] Do people see you in similar ways?
->  - [ ] Do you deliberately present yourself differently in different situations, and how?
 >  - [ ] For what would you die for?
 >  - [ ] For whom would you go to extremes for?
->  - [ ] Who does you turn to when you're in trouble?
 >  - [ ] What is the worst thing someone has done to you?
->  - [ ] What are your general reaction to an attractive member of the opposite sex who lets you know they are available?
->  - [ ] How do you get along with others in the same field and/or work environment?
->  - [ ] How can you be blackmailed, beaten, and tricked (by PCs or NPCs)?
 >  - [ ] Have you lost any loves?
 >  - [ ] How did you handle the situation (short & long term)?
 >  - [ ] Who would miss you, should you go missing?
 >  - [ ] Who might protect you?
->  - [ ] Who might be convinced to sell you out?
->  - [ ] How close are you to your friends?
->  - [ ] What do they know about you?
->  - [ ] What do they not know about you?
->  - [ ] What do you know and not know about them?
->  - [ ] Do you live with anyone (housemates, roommates, relatives, friends, near-strangers, family friend, spouse, boyfriend, girlfriend, lover)?
 >  - [ ] Are you a member of any special interest groups?
 >  - [ ] What is your level of involvement?
 >  - [ ] What is your current status with local law-enforcement?
@@ -132,36 +116,18 @@
 > [!caution] PERSONALITY/BELIEFS
 >  - [ ] Do you, or did you, have any role models? Do you have any heroes or idols, either contemporary or from legend?
 >  - [ ] If so, have you ever met them?
-> - [ ] Did you ever become disillusioned with former heroes or idols? If so, why and what were the circumstances?
-> - [ ] When did you decide to become an adventurer?
-> - [ ] Why have you chosen to risk your life as a career?
-> - [ ] What do you expect to get out of being an adventurer (satisfaction, glory, money, redemption, etc.)?
-> - [ ] What, if anything, would make them stop adventuring (death of a loved one, marriage, mutilation, money, position, old age, etc.)?
 > - [ ] Do you have any dreams or ambitions?
 > - [ ] If not, why?
-> - [ ] How does adventuring fit into this dream, or does it at all?
 > - [ ] What are your short term goals (what would you like to be doing within a year)?
 > - [ ] What are your long term goals (what would you like to be doing twenty years from now)?
-> - [ ] If these goals seem at odds with each other or with your dreams, how do you reconcile the differences?
 > - [ ] How do you seek to fulfill these dreams, goals, & ambitions?
 > - [ ] Do you have any great rational or irrational fears or phobias? If so, what are the origins of or reasons behind them?
-> - [ ] What, if anything, would it take for you to be able to overcome this?
 > - [ ] How do you react when this fear manifests itself?
 > - [ ] Are you willing to discuss, or even admit to, the situation?
-> - [ ] What are your attitudes regarding material wealth?
-> - [ ] Are you miserly with your share of the wealth, or do you spend it freely?
-> - [ ] Are you greedy or generous?
-> - [ ] Do you see wealth as a mark of success, or just as a means to an end?
 > - [ ] How do you generally treat others?
 > - [ ] Do you trust easily (perhaps too easily) or not?
 > - [ ] Are you introverted (shy and withdrawn) or extroverted (outgoing)?
 > - [ ] Are you a humble soul or blusteringly proud?
-> - [ ] Do you act differently than you feel (concealing your true thoughts)?
-> - [ ] What habits would you find most annoying in friends?
-> - [ ] Is there any race, creed, alignment, religion, class, profession, political viewpoint, or the like against which you is strongly prejudiced, and why?
-> - [ ] How do others typically react to you?
-> - [ ] Why, in your opinion, do they act that way?
-> - [ ] What are your most annoying habits?
 > - [ ] What is your favorite food?
 > - [ ] What is your favorite drink?
 > - [ ] What is your favorite treat (desert)?
@@ -172,19 +138,10 @@
 > - [ ] Are you allergic to any food?
 > - [ ] What are your favorite color(s)?
 > - [ ] Is there any color that you dislike?
-> - [ ] Do you have a favorite (or hated) song, type of music, or instrument?
-> - [ ] What is your favorite bard song?
 > - [ ] If you have a favorite scent, what is it?
 > - [ ] What is your favorite type of animal?
-> - [ ] Why do your category that creature?
-> - [ ] Do you have an animal totem or affinity, and if so for what?
-> - [ ] Is there a certain type of animal that you hate or fear?
 > - [ ] Are you allergic to any kinds of animals?
 > - [ ] Do you have any allergies?
-> - [ ] Is there anything that enrages you?
-> - [ ] Is there anything which embarrasses you?
-> - [ ] How do you react to being teased about it?
-> - [ ] Do you enjoy "roughing it", or do you prefer your creature comforts?
 > - [ ] Do you believe in the gods or not?
 > - [ ] Do you have a patron Deity?
 > - [ ] Are you devout or impious?
@@ -203,13 +160,6 @@
 > - [ ] When do you consider it okay to kill (under what circumstances)?
 > - [ ] When do you consider it wrong to kill (under what circumstances)?
 > - [ ] What would you do if someone else attempted to (or successfully did) kill under their "wrong" circumstances, what would be your reaction?
-> - [ ] What if it were your enemy?
-> - [ ] What if it were your friend?
-> - [ ] What if it were an innocent?
-> - [ ] What if the opponent were not in control of their own actions (i.e.-under duress, charmed, dominated, possessed, etc.)?
-> - [ ] What would you do if someone shot at (attacked) you?
-> - [ ] What would you do if something were stolen from you?
-> - [ ] What would you do if you were badly insulted publicly?
 > - [ ] What would you do if a good friend or relative were killed by means other than natural death?
 > - [ ] What is the one task you would absolutely refuse to do?
 > - [ ] What do you consider to be the worst crime someone could commit and why?
@@ -242,9 +192,9 @@
 > - [ ] What is your favorite color?
 > - [ ] What place would you most like to visit?
 > - [ ] What annoys you the most?
-> - [ ] What (if any) are your favourite forms of art?
+> - [ ] What (if any) are your favorite forms of art?
 > - [ ] What is your most treasured possession?
-> - [ ] What things could he/ she not live without?
+> - [ ] What things could you not live without?
 > - [ ] Do you have a good luck charm?
 > - [ ] If your life were to end in 24 hours, what 5 things would you do in those remaining hours?
 > - [ ] Do you have a "Black-and-White" view of reality or can you see shades of grey?
@@ -285,35 +235,23 @@
 > - [ ] What are your hobbies when they are not adventuring or training?
 > - [ ] What would you do if you had insomnia and had to find something to do to amuse yourself?
 > - [ ] What do you do for relaxation? What things do they do for enjoyment? What interests do you have?
-> - [ ] How do you normally dress, when not in your adventuring gear?
-> - [ ] Do you like to dress up or down to relax?
 > - [ ] Do you have a look or style? If so, describe it.
-> - [ ] What do you normally wear in bed at home?
-> - [ ] What do you normally wear in bed while adventuring?
 > - [ ] Do you wear any identifiable jewelry?
 > - [ ] Where do you normally put your weapons, magic items, or other valuables when you are sleeping?
 > - [ ] What morning or evening routines do you normally have?
 > - [ ] Do these change when you is adventuring?
 > - [ ] What pastime (that you participate in regularly) gives you the most enjoyment?
 > - [ ] What pastime (that you participate in regularly) gives you the least enjoyment?
-> - [ ] Do you read the newspaper?
-> - [ ] If so, which sections and how often?
-> - [ ] What is his/ her routine
 > - [ ] Travel: How do you get around locally?
 > - [ ] What is your idea of a good evening's entertainment?
 > - [ ] Do you get seasick, airsick, motion sick (auto or animal)?
 > - [ ] Do you like riding animals?
 > - [ ] Any fears in traveling?
 > - [ ] What sorts of general belongings or equipment do you take when traveling?
-> - [ ] What are your hangout places?
-> - [ ] Do you go to a bar after work?
-> - [ ] Do you play pool?
-> - [ ] Do you go dancing? Who goes with you?
 > - [ ] What do you read? Scientific textbooks, historical novels, myths and legends, maps, cookbooks, romances, news magazines, science fiction, fantasy, horror, the newspaper, short stories?
 > - [ ] What music do you like?
 > - [ ] Do you have a favorite artist, band or bard?
 > - [ ] Will you listen to or sing the same songs over and over, or does it drive you nuts when people do that?
-> - [ ] How do you exercise? Work out at the gym, walks in the morning, run marathons, play sports, couch potato?
 > - [ ] Where do you live?
 > - [ ] Do you rent or own?
 > - [ ] Apartment, house or castle?
@@ -323,26 +261,14 @@
 > - [ ] Which floor are you on?
 > - [ ] Do you have a lawn?
 > - [ ] What about a flower garden?
-> - [ ] Does your house have an attic or basement?
+> - [ ] Does your house have an attic or basement? If so, what do you keep in it?
 > - [ ] What does your furniture look like?
 > - [ ] Do you buy antiques?
-> - [ ] What are your walls covered with? Wallpaper, art, photos?
-> - [ ] What sorts of curtains do you have? Frilly lacy ones, Venetian blinds, pull-down shades?
 > - [ ] Do you keep your house clean?
 > - [ ] Is it dusty?
-> - [ ] Is the bathtub moldy or coated in rust?
-> - [ ] Do you clean it herself?
 > - [ ] What do your desk or workspace look like? Small and cramped, huge and expansive, covered in drifts of books and papers? neatly ordered and clean?
 > - [ ] Can you find what you're looking for when you need it?
-> - [ ] What color are your sheets?
-> - [ ] Satin or cotton?
-> - [ ] Patterned with flowers, or covered with pictures of toy robots?
-> - [ ] What sorts of food do you eat?
-> - [ ] Do you cook your own dinners?
 > - [ ] Are you a good cook, a gourmet, or a terrible cook?
-> - [ ] Do you eat out?
-> - [ ] Are you on a diet?
-> - [ ] Where do you vacation, and how often?
 > - [ ] Do you have any pets?
 > - [ ] Do you keep a calendar or address book?
 > - [ ] Where do you keep it?
