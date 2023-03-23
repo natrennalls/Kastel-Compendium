@@ -4,13 +4,13 @@
 
 | Session       | Chronicle |
 | ------------- | --------- |
-| [[Session 0\|Session 0]] | The Ether |
+| [[Kastel Compendium/Session 0\|Session 0]] | The Ether |
 
-| Logs    |
-| ------- |
-|[[ Battles\| Battles]] |
-| [[Notes\|Notes]]   |
-| [[Quests \|Quests ]] |
+| Character Level        | World Level |
+| ------------ | ------ |
+| [[ Battles\| Battles]] | [[Kastel Compendium/Lore\|Lore]]|
+| [[NPCs\|NPCs]] | [[Locations\|Locations]]       |
+| [[Quests \|Quests ]]  |   [[Current Events\|Current Events]]     |
 
 
 
